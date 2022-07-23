@@ -24,8 +24,7 @@ Tweets sin menciones a Boric:  <b>57</b><br>
 De un total de: <b>75 tweets</b>; los <b>25</b> restantes corresponden a <b>RT</b><br>
 
 Lo cual se ve representado en una gráfica al final de <a href="https://github.com/alexbgh1/Menciones-Twitter/blob/main/menciones.ipynb">menciones.ipynb</a></p>
-
-
+![alt text](https://github.com/alexbgh1/Menciones-Twitter/blob/main/img/img_reference.png)
 
 <h2>El material utilizado como plantilla</h2>
 <p>El código como plantilla para la obtención de datos utilizando API de Twitter y conversión a archivo csv corresponde a <a href="https://github.com/matthieuvernier">Matthieu Vernier</a><br>
